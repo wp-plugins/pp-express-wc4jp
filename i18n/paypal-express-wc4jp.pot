@@ -1,0 +1,756 @@
+# Copyright (C) 2015 PayPal Express for WooCommerce in Japan
+# This file is distributed under the same license as the PayPal Express for WooCommerce in Japan package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPal Express for WooCommerce in Japan 1.1.6.3.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/paypal-express-"
+"wc4jp\n"
+"POT-Creation-Date: 2015-07-21 08:57:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:13
+#: classes/wc-gateway-paypal-express-wc4jp.php:318
+msgid "PayPal Express"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:14
+msgid ""
+"・The use of the PayPal payment service, you must have PayPal business "
+"account. Opening of business account it can be done from here.<br />\n"
+"<a href=\"https://www.paypal.com/jp/cgi-bin/webscr?cmd=_registration-run"
+"\">Opening of business account</a><br /><br />\n"
+"　\n"
+"・Learn establishment procedure of the business account.<br />\n"
+"<a href=\"https://www.paypal.jp/jp/contents/start/account-business/"
+"\">establishment procedure of the business account</a><br /><br />\n"
+" \n"
+"・Learn more about the submission of identification documents of the "
+"business account.<br />\n"
+"<a href=\"https://www.paypal.jp/jp/contents/support/faq/faq-008/"
+"\">submission of identification documents of the business account</a>　<br /"
+"><br />\n"
+" \n"
+"・Contact<br />\n"
+"For inquiries about the new Application and introduction (sales "
+"representative)<br />\n"
+"Tel：03-6739-7135 Weekday 9:30 - 18:00（except Saturdays, Sundays and public "
+"holidays）※Call charges apply<br />\n"
+"E-mail：<a href=\"mailto:wpp@paypal.com\">wpp@paypal.com</a><br /><br />\n"
+" \n"
+"If you already have a PayPal account (customer service)<br />\n"
+"Tel：0120-271-888 or 03-6739-7360（Mobile phone and here from overseas ※ "
+"takes toll）<br />\n"
+"9:00～20:00（Open 7days a week）"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:123
+#: classes/wc-gateway-paypal-express-wc4jp.php:681
+#: classes/wc-gateway-paypal-express-wc4jp.php:689
+#: classes/wc-gateway-paypal-express-wc4jp.php:2244
+#: classes/wc-gateway-paypal-express-wc4jp.php:2252
+#: paypal-express-wc4jp.php:452 paypal-express-wc4jp.php:460
+#: paypal-express-wc4jp.php:518 paypal-express-wc4jp.php:526
+msgid "Pay with PayPal"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:135
+msgid "Settings"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:210
+#: classes/wc-gateway-paypal-express-wc4jp.php:212
+msgid "Choose Image"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:274
+msgid ""
+"This image requires an SSL host.  Please upload your image to <a target="
+"\"_blank\" href=\"http://www.sslpic.com\">www.sslpic.com</a> and enter the "
+"image URL here."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:308
+msgid "Enable/Disable"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:309
+msgid "Enable PayPal Express"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:315
+msgid "Title"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:317
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:321
+msgid "Description"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:323
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:324
+msgid ""
+"Pay via PayPal; you can pay with your credit card if you don't have a PayPal "
+"account"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:327
+msgid "API Credentials"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:331
+msgid "Sandbox API User Name"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:337
+msgid "Sandbox API Password"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:343
+msgid "Sandbox API Signature"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:347
+msgid ""
+"Sandbox (test environment) for the API user name, API password, the "
+"signature information can be obtained from here."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:347
+msgid "Sandbox API Setting"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:350
+msgid "Live API User Name"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:356
+msgid "Live API Password"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:362
+msgid "Live API Signature"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:366
+msgid ""
+"API user name for the production environment, API password, the signature "
+"information can be obtained from here."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:366
+msgid "API Setting"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:369
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:371
+msgid "Enable PayPal Sandbox"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:373
+msgid ""
+"The sandbox is PayPal's test environment and is only for use with sandbox "
+"accounts created within your <a href=\"http://developer.paypal.com\" target="
+"\"_blank\">PayPal developer account</a>."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:376
+msgid "Debug"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:378
+msgid ""
+"Enable logging <code>/wp-content/uploads/wc-logs/paypal_express-{tag}.log</"
+"code>"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:382
+msgid "Error Email Notifications"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:384
+msgid "Enable admin email notifications for errors."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:386
+msgid ""
+"This will send a detailed error email to the WordPress site administrator if "
+"a PayPal API error occurs."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:389
+msgid "Advanced Options"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:394
+msgid "Reference Transactions"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:396
+msgid ""
+"Check it if you want to use Reference Transactions. Reference Transactions "
+"is direct paypal payment system before using this site"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:400
+msgid "Invoice ID Prefix"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:402
+msgid ""
+"Add a prefix to the invoice ID sent to PayPal. This can resolve duplicate "
+"invoice problems when working with multiple websites on the same PayPal "
+"account."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:414
+msgid "Checkout Button Type"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:416
+#: classes/wc-gateway-paypal-express-wc4jp.php:427
+msgid "Use Checkout with PayPal image button"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:419
+msgid "PayPal Image"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:420
+msgid "Text Button"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:421
+msgid "Custom Image"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:425
+msgid "Select Image"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:431
+msgid "Custom Text"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:443
+msgid "Cart Page"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:444
+msgid "Show Express Checkout button on shopping cart page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:449
+msgid "Cart Button Position"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:450
+msgid "Where to display PayPal Express Checkout button(s)."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:451
+msgid "Set where to display the PayPal Express Checkout button(s)."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:454
+msgid "At the top, above the shopping cart details."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:455
+msgid "At the bottom, below the shopping cart details."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:456
+msgid "Both at the top and bottom, above and below the shopping cart details."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:461
+msgid "Checkout Page Display"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:464
+msgid "Do not display on checkout page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:465
+msgid "Display at the top of the checkout page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:466
+msgid "Display in general list of enabled gatways on checkout page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:467
+msgid ""
+"Display both at the top and in the general list of gateways on the checkout "
+"page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:469
+msgid ""
+"Displaying the checkout button at the top of the checkout page will allow "
+"users to skip filling out the forms and can potentially increase conversion "
+"rates."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:472
+msgid "Product Page"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:474
+msgid "Show the Express Checkout button on product detail pages."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:476
+msgid "Allows customers to checkout using PayPal directly from a product page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:479
+msgid "PayPal Account Optional"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:481
+msgid ""
+"Allow customers to checkout without a PayPal account using their credit card."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:483
+msgid ""
+"PayPal Account Optional must be turned on in your PayPal account profile "
+"under Website Preferences."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:486
+msgid "Landing Page"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:488
+msgid ""
+"Type of PayPal page to display as default. PayPal Account Optional must be "
+"checked for this option to be used."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:489
+#: template/paypal-review-order.php:135
+msgid "Login"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:490
+msgid "Billing"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:494
+msgid "Error Display Type"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:496
+msgid "Display detailed or generic errors"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:499
+msgid "Detailed"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:500
+msgid "Generic"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:502
+msgid ""
+"Detailed displays actual errors returned from PayPal.  Generic displays "
+"general errors that do not reveal details\n"
+"\t\t\t\t\t\t\t\t\tand helps to prevent fraudulant activity on your site."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:512
+msgid "Use WordPress Locale Code"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:514
+msgid ""
+"Pass the WordPress Locale Code setting to PayPal in order to display "
+"localized PayPal pages to buyers."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:518
+msgid "Brand Name"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:520
+msgid ""
+"This controls what users see as the brand / company name on PayPal review "
+"pages."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:524
+msgid "PayPal Checkout Logo (190x90px)"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:526
+msgid "This controls what users see as the logo on PayPal review pages. "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:530
+msgid "PayPal Checkout Banner (750x90px)"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:532
+msgid ""
+"This controls what users see as the header banner on PayPal review pages. "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:536
+msgid "Cart Border Color"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:538
+msgid "This Color is PayPal cart border on the PayPal hosted checkout pages."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:542
+msgid "Custom Payment Page"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:544
+msgid ""
+"This is the name of the custom payment page to use, if you have created one."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:587
+msgid "Express Checkout Message"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:589
+msgid ""
+"This message will be displayed next to the PayPal Express Checkout button at "
+"the top of the checkout page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:590
+#: classes/wc-gateway-paypal-express-wc4jp.php:715
+msgid "Skip the forms and pay faster with PayPal!"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:593
+msgid "Skip Final Review"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:594
+msgid "Enables the option to skip the final review page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:595
+msgid ""
+"By default, users will be returned from PayPal and presented with a final "
+"review page which includes shipping and tax in the order details.  Enable "
+"this option to eliminate this page in the checkout process."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:600
+msgid "Payment Action"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:601
+msgid "Whether to process as a Sale or Authorization."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:602
+msgid ""
+"Sale will capture the funds immediately when the order is placed.  "
+"Authorization will authorize the payment but will not capture the funds.  "
+"You would need to capture funds through your PayPal account when you are "
+"ready to deliver."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:611
+#: template/paypal-review-order.php:100
+msgid "Billing Address"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:612
+msgid ""
+"Set billing address in WooCommerce using the address returned by PayPal."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:613
+msgid ""
+"PayPal only returns a shipping address back to the website.  Enable this "
+"option if you would like to use this address for both billing and shipping "
+"in WooCommerce."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:618
+msgid "Cancel Page"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:619
+msgid ""
+"Sets the page users will be returned to if they click the Cancel link on the "
+"PayPal checkout pages."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:624
+msgid "Send Item Details"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:625
+msgid "Send line item details to PayPal."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:627
+msgid ""
+"Include all line item details in the payment request to PayPal so that they "
+"can be seen from the PayPal transaction details page."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:638
+msgid ""
+"PayPal is a convenient [digital wallet] on the Internet. If you register "
+"your credit card information to PayPal, settlement completion only in ID and "
+"password. Without informing the important card information in the shop, you "
+"can pay more safely. Establishment of PayPal account, is easy because only "
+"to enter the necessary information to select the PayPal in settlement method."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:642
+msgid "Check it if you want to use PayPal Account next time."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:644
+msgid "Check it if you want to not use PayPal Account before."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:674
+#: classes/wc-gateway-paypal-express-wc4jp.php:2237
+#: paypal-express-wc4jp.php:440 paypal-express-wc4jp.php:511
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:765
+msgid "Review Order Page not found, re-create it. "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:767
+#: paypal-express-wc4jp.php:302
+msgctxt "page_slug"
+msgid "review-order"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:767
+#: paypal-express-wc4jp.php:302
+msgid "Checkout &rarr; Review Order"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:803
+msgid "SetExpressCheckout API call failed. "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:804
+#: classes/wc-gateway-paypal-express-wc4jp.php:817
+#: classes/wc-gateway-paypal-express-wc4jp.php:1216
+msgid "Detailed Error Message: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:805
+#: classes/wc-gateway-paypal-express-wc4jp.php:816
+#: classes/wc-gateway-paypal-express-wc4jp.php:1215
+msgid "Short Error Message: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:806
+#: classes/wc-gateway-paypal-express-wc4jp.php:814
+#: classes/wc-gateway-paypal-express-wc4jp.php:1213
+msgid "Error Code: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:807
+#: classes/wc-gateway-paypal-express-wc4jp.php:815
+#: classes/wc-gateway-paypal-express-wc4jp.php:1214
+msgid "Error Severity Code: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:813
+msgid "SetExpressCheckout API call failed."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:831
+#: classes/wc-gateway-paypal-express-wc4jp.php:1233
+msgid "There was a problem paying with PayPal.  Please try another method."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:870
+msgid "We do not sell in your country, please try again with another address."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:928
+msgid "Username is required"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:930
+msgid "This username is already registered."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:932
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:934
+msgid "Password is required."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:936
+msgid "Passwords do not match."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:938
+msgid "This email address is already registered."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:949
+#: classes/wc-gateway-paypal-express-wc4jp.php:950
+msgid "Anti-spam field was filled in."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:978
+msgid "Error"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1148
+msgid "Customer Notes: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1168
+msgid "PayPal Express payment completed"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1172
+msgid "Payer Status: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1175
+msgid "Address Status: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1212
+msgid "DoExpressCheckoutPayment API call failed."
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1217
+msgid "Order ID: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1218
+msgid "Customer Name: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1219
+msgid "Customer Email: "
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:1260
+#: classes/wc-gateway-paypal-express-wc4jp.php:1691
+#: classes/wc-gateway-paypal-express-wc4jp.php:1756
+msgid ""
+"Sorry, your session has expired. <a href=%s>Return to homepage &rarr;</a>"
+msgstr ""
+
+#: classes/wc-gateway-paypal-express-wc4jp.php:2195
+#: classes/wc-gateway-paypal-express-wc4jp.php:2196
+msgid "Pay with Credit Card"
+msgstr ""
+
+#: paypal-express-wc4jp.php:62
+msgid ""
+"PayPal for WooCommerce requires WooCommerce version 2.1 or higher.  Please "
+"backup your site files and database, update WooCommerce, and try again."
+msgstr ""
+
+#: paypal-express-wc4jp.php:126
+msgid "Gift Wrap"
+msgstr ""
+
+#: paypal-express-wc4jp.php:155
+msgid "Docs"
+msgstr ""
+
+#: paypal-express-wc4jp.php:156
+msgid "Support"
+msgstr ""
+
+#: paypal-express-wc4jp.php:157
+msgid "Write a Review"
+msgstr ""
+
+#: paypal-express-wc4jp.php:217
+msgid ""
+"You currently have both PayPal (standard) and Express Checkout enabled.  It "
+"is recommended that you disable the standard PayPal from <a href=\"%sadmin."
+"php?page=wc-settings&tab=checkout&section=wc_gateway_paypal\">the settings "
+"page</a> when using Express Checkout. | <a href=%s>%s</a>"
+msgstr ""
+
+#: paypal-express-wc4jp.php:217 paypal-express-wc4jp.php:221
+msgid "Hide this notice"
+msgstr ""
+
+#: paypal-express-wc4jp.php:221
+msgid ""
+"WooCommerce PayPal Payments requires WooCommerce plugin to work normally. "
+"Please activate it or install it from <a href='http://wordpress.org/plugins/"
+"woocommerce/' target='_blank'>here</a>. | <a href=%s>%s</a>"
+msgstr ""
+
+#: template/paypal-review-order.php:29
+msgid "Customer details"
+msgstr ""
+
+#: template/paypal-review-order.php:37
+msgid "Shipping Address"
+msgstr ""
+
+#: template/paypal-review-order.php:163
+msgid "Create A New Account"
+msgstr ""
+
+#: template/paypal-review-order.php:194
+msgid "Cancel order"
+msgstr ""
+
+#: template/paypal-review-order.php:195
+msgid "Place Order"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PayPal Express for WooCommerce in Japan"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wc.artws.info/product/paypal-for-woocommerce-plugin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily enable PayPal Express Checkout for Japanese User. Each option is "
+"available separately so you can enable them individually."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ArtisanWorkshop"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wc.artws.info/"
+msgstr ""
