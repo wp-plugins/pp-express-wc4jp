@@ -1,7 +1,7 @@
 <?php
 /**
  * @wordpress-plugin
- * Plugin Name:       PayPal Express WC4JP
+ * Plugin Name:       PayPal Express Checkout WC4JP
  * Plugin URI:        http://wc.artws.info/product/paypal-for-woocommerce-plugin/
  * Description:       Easily enable PayPal Express Checkout for Japanese User. Each option is available separately so you can enable them individually.
  * Version:           0.9

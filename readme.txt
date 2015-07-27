@@ -1,4 +1,4 @@
-=== PayPal Express WC4JP ===
+=== PayPal Express Checkout WC4JP ===
 Contributors: artisan-workshop-1, shohei.tanaka
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=info@artws.info&item_name=Donation+for+Artisan&currency_code=JPY
 Tags: woocommerce, paypal, express checkout, japan
