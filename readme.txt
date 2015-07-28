@@ -67,7 +67,7 @@ Not at all
 == Frequently Asked Questions ==
 
 Q: Can I use this plugin out of Japan area.
-A: Yes, but I can support it.
+A: Perhaps Yes, but I can not support out of Japan area.
 
 == Changelog ==
 
